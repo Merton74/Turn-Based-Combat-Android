@@ -34,6 +34,7 @@ Bu projede aşağıdaki yazılım ve algoritma konseptleri aktif olarak kullanı
 1.  **Android Cihazlar İçin:** Depodaki `.apk` dosyasını indirip Android cihazınıza kurarak doğrudan oynayabilirsiniz.
 2.  **Geliştiriciler İçin:** `.aia` kaynak dosyasını indirip kendi [MIT App Inventor](http://ai2.appinventor.mit.edu/) hesabınıza "Import" ederek blok kodlarını ve UI tasarımını inceleyebilirsiniz.
 
+*Geliştirici [Mert Tabak / Merton74]*
 ---
 
 ## 🇬🇧 English
@@ -62,4 +63,4 @@ The following software and algorithmic concepts were actively implemented in thi
 2.  **For Developers:** Download the `.aia` source file and "Import" it into your own [MIT App Inventor](http://ai2.appinventor.mit.edu/) account to inspect the block logic and UI design.
 
 ---
-*Developed by [Senin Adın/Kullanıcı Adın]*
+*Developed by [Mert Tabak / Merton74]*
